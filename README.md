@@ -1,2 +1,4 @@
-# SVG-Project
-SVG Icon System for CSCI-UA.0380-​002 
+# Forked From
+
+[Nil's Weapon SVGs](https://github.com/gitnil/SVG-Project)
+
